@@ -1,0 +1,146 @@
+body {
+    background: #f0f0f0;
+    font-family: helvetica, arial;
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+div.header-outer {
+/*    height: 200;*/
+    background: #f0f0f0;
+    color: black;
+    border-bottom: 1px solid #ccc;
+    height: 200;
+}
+
+div.header-inner {
+    margin: 0 auto;
+    width: 944;
+    color: black;
+}
+
+div.title-border {
+    float: left;
+    padding: 20 30;
+    background: white;
+    width: 260;
+    margin: 40 0;
+}
+
+div.appstorebadge {
+    float: right;
+    margin: 60 0
+}
+
+span.title {
+    font-family: futura, helvetica, arial;
+    font-size: 60;
+    font-weight: 900;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+span.tagline {
+    font-family: "HelveticaNeue-Thin";
+/*    padding: 60 40;*/
+/*    width: 1024;*/
+    font-size: 60;
+    display: table-cell;
+/*    text-align: center;*/
+}
+
+img.portrait {
+    height: 568;
+    width: 320;
+}
+
+img.landscape {
+    height: 320;
+    width: 568;
+}
+
+div.firstrow {
+    background: white;
+}
+
+div.firstrow-content {
+    background: white;
+    margin: 0 auto;
+    width: 944;
+/*    height: 568;*/
+    padding: 80;
+}
+
+img.firstrow {
+/*    padding: 50;*/
+    margin-top: 80;
+}
+
+div.lightrow {
+    background: white;
+    height: 668;
+}
+
+div.lightrow-content {
+    background: white;
+    margin: 0 auto;
+    padding: 40 0;
+    width: 944;
+    height: 568;
+}
+
+div.darkrow {
+    height: 668;
+    background: #f0f0f0;
+}
+
+div.darkrow-content {
+    margin: 0 auto;
+    padding: 50 0;
+    width: 944;
+    background: #f0f0f0;
+    height: 568px;
+}
+
+div.left-img {
+    float: left;
+    width: 320;
+}
+
+div.right-img {
+    float: right;
+    width: 320;
+}
+
+div.right-landscape-img {
+    float: right;
+    width: 568;
+}
+
+div.left-text {
+    float: left;
+    width: 680;
+}
+
+div.left-text-for-landscape-img {
+    float: left;
+    width: 320;
+}
+
+div.right-text {
+    float: right;
+    width: 680;
+}
+
+span.heading {
+    font-family: futura, helvetica, arial;
+    font-size: 4em;
+    font-weight: 100;
+    display: table-cell;
+    vertical-align: middle;
+    height: 568;
+    text-align: center;
+    width: 680;
+}
